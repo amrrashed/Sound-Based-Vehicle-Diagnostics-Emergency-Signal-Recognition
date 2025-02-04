@@ -1,0 +1,13 @@
+https://www.kaggle.com/datasets/irmiot22/fsc22-dataset
+https://www.kaggle.com/datasets/akela91/google-audioset
+https://www.kaggle.com/datasets/ivanj0/audiodata
+https://www.kaggle.com/datasets/rushibalajiputthewad/sound-classification-of-animal-voice
+https://www.kaggle.com/datasets/mariotsaberlin/animal-sound-archive-berlin    (not good)
+https://www.kaggle.com/datasets/maulanaakbardwijaya/animal-sounds-dataset   (not good)
+https://www.kaggle.com/datasets/haithammoh/sounds-of-animals   (not good)
+https://dcase.community/challenge2024/index#task1
+https://urbansounddataset.weebly.com/urbansound8k.html
+https://research.google.com/audioset/
+https://freesound.org/                                                (not good)
+https://www.kaggle.com/datasets/janboubiabderrahim/vehicle-sounds-dataset
+https://www-dev1.mathworks.com/template-service/help/full-header-footer-offcanvas.html
