@@ -29,6 +29,7 @@ We utilized multiple datasets containing wild animal sounds, vehicle faults, and
 •	[Sound Classification of Animal Voice]: A dataset containing sounds from different animals, useful for animal sound classification tasks [4].
 
 •	[DCASE 2024 Challenge]: A dataset designed for the DCASE 2024 challenge, covering environmental sound classification tasks [5].
+
 •	[UrbanSound8K Dataset]: Contains 8,732 labeled sound excerpts from urban environments, categorized into 10 classes such as car horns and sirens [6].
 
 •	[AudioSet by Google Research]: A vast dataset with over 2 million human-labeled 10-second sound clips spanning thousands of audio categories [7].
@@ -46,6 +47,7 @@ The dataset includes multiple vehicle faults, ensuring coverage of mechanical, t
 •	Bad Wheel Bearing
 •	Universal Joint Failure / Steering Rack Failure
 •	Turning Front-End Clicking (Bad CV Axle)
+
 ✅ Engine and Exhaust Faults
 
 •	Engine Chirping / Squealing Belt
@@ -61,6 +63,7 @@ The dataset includes multiple vehicle faults, ensuring coverage of mechanical, t
 •	Seized Engine
 •	Thrown Rod
 •	Vacuum Leak
+
 ✅ Suspension and Steering Faults
 
 •	Clunking Over Bumps (Bad Stabilizer Link Noise)
@@ -68,9 +71,11 @@ The dataset includes multiple vehicle faults, ensuring coverage of mechanical, t
 •	Steering Noise
 •	Strut Mount Failure
 •	Suspension Arm Fault
+
 ✅ Cooling System and Fan Faults
 
 •	Radiator Fan Failure
+
 ✅ Braking System Faults
 
 •	Squeaky Belt
