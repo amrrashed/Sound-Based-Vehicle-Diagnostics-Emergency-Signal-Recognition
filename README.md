@@ -1,97 +1,244 @@
 The dataset was created and reviewed using a combination of publicly available datasets and real-world recordings, 
+
 covering a wide range of vehicle faults, crashes, emergency sirens (police, ambulance, fire truck), wild animal sounds, car and truck horns, and other environmental road sounds.
+
 This approach ensures a diverse and realistic dataset that enhances model performance in detecting road-related events.
+
 1. Publicly Available Datasets Referenced
-We utilized several datasets containing wild animal sounds, vehicle faults, and environmental noises to build a comprehensive dataset. The key datasets referenced include:
+   
+We utilized several datasets containing wild animal sounds, vehicle faults, and environmental noises to build a comprehensive dataset.
+The key datasets referenced include:
+
 📌 Wild Animal Sounds and Environmental Sounds
-•	Sound Classification of Animal Voice [1]
+
 📌 Vehicle Faults and Road Sounds
-•	FSC22 Dataset [2]
-•	Google AudioSet [3]
-•	Audio Data [4]
-2. Vehicle Faults Categorized in the Dataset
+
+ref [1]-[9]
+
+
+3. Vehicle Faults Categorized in the Dataset
+   
 The dataset includes multiple vehicle faults, ensuring coverage of mechanical, transmission, braking, and steering issues. The specific fault categories are:
+
 ✅ Transmission and Drivetrain Faults
+
 •	Bad CV Joint
+
 •	Bad Transmission
+
 •	Bad Wheel Bearing
+
 •	Universal Joint Failure / Steering Rack Failure
+
 •	Turning Front-End Clicking (Bad CV Axle)
+
 ✅ Engine and Exhaust Faults
+
 •	Engine Chirping / Squealing Belt
+
 •	Engine Misfire
+
 •	Engine Rattle Noise
+
 •	Flooded Engine
+
 •	Fuel Pump Cartridge Fault
+
 •	Knocking
+
 •	Lifter Ticking
+
 •	Loose Exhaust Shield
+
 •	Muffler Running Loud (Exhaust Leak)
+
 •	Pre-Ignition
+
 •	Seized Engine
+
 •	Thrown Rod
+
 •	Vacuum Leak
+
 ✅ Suspension and Steering Faults
+
 •	Clunking Over Bumps (Bad Stabilizer Link Noise)
+
 •	Steering Groaning / Whining (Low Power Steering Fluid)
+
 •	Steering Noise
+
 •	Strut Mount Failure
+
 •	Suspension Arm Fault
+
 ✅ Cooling System and Fan Faults
+
 •	Radiator Fan Failure
+
 ✅ Braking System Faults
+
 •	Squeaky Belt
+
 •	Squeaky Brake / Grinding Brake
-3. Car Crash References
-To include realistic car crash scenarios in our dataset, we utilized real-world accident recordings from YouTube [5]–[16].
-4. Animal Sound References
-To ensure the dataset accurately reflects real-world environmental conditions, we included animal sounds from various real-world recordings available on YouTube [17]–[21].
-5. Additional Car Fault References
-We supplemented our dataset with real-world recordings of car faults obtained from Instagram and YouTube [22]–[42].
+
+5. Car Crash References
+   
+To include realistic car crash scenarios in our dataset, we utilized real-world accident recordings from YouTube [10]–[38].
+
+7. Animal Sound References
+   
+To ensure the dataset accurately reflects real-world environmental conditions, we included animal sounds from various real-world recordings available on YouTube [39]–[51].
+
+9. Additional Car Fault References
+    
+We supplemented our dataset with real-world recordings of car faults obtained from Instagram and YouTube [52]–[73].
 ________________________________________
 References 
-[1] Sound Classification of Animal Voice Dataset. Available: https://example.com/dataset1
-[2] FSC22 Dataset. Available: https://example.com/dataset2
-[3] Google AudioSet. Available: https://example.com/dataset3
-[4] Audio Data. Available: https://example.com/dataset4
-[5] Car Crash Video 1. YouTube. Available: https://youtu.be/link1
-[6] Car Crash Video 2. YouTube. Available: https://youtu.be/link2
-[7] Car Crash Video 3. YouTube. Available: https://youtu.be/link3
-[8] Car Crash Video 4. YouTube. Available: https://youtu.be/link4
-[9] Car Crash Video 5. YouTube. Available: https://youtu.be/link5
-[10] Car Crash Video 6. YouTube. Available: https://youtu.be/link6
-[11] Car Crash Video 7. YouTube. Available: https://youtu.be/link7
-[12] Car Crash Video 8. YouTube. Available: https://youtu.be/link8
-[13] Car Crash Video 9. YouTube. Available: https://youtu.be/link9
-[14] Car Crash Video 10. YouTube. Available: https://youtu.be/link10
-[15] Car Crash Video 11. YouTube. Available: https://youtu.be/link11
-[16] Car Crash Video 12. YouTube. Available: https://youtu.be/link12
-[17] Animal Sound Video 1. YouTube. Available: https://youtu.be/animallink1
-[18] Animal Sound Video 2. YouTube. Available: https://youtu.be/animallink2
-[19] Animal Sound Video 3. YouTube. Available: https://youtu.be/animallink3
-[20] Animal Sound Video 4. YouTube. Available: https://youtu.be/animallink4
-[21] Animal Sound Video 5. YouTube. Available: https://youtu.be/animallink5
-[22]Car Faults : Instagram, "Reel Video," Available: https://www.instagram.com/reel/DAtBzrXNjhf/?igsh=MWthZWRjMXNkdzU4bA==.
-[23] Car Faults: YouTube, "Short Video," Available: https://youtube.com/shorts/XW8qx0WPYWA?si=BpPw-t00K7CjvTGS.
-[24] Car Faults: YouTube, "Short Video," Available: https://youtube.com/shorts/ETYaJUNdbqM?si=t_cuSAYsTI6ta8_D.
-[25] Car Faults: YouTube, "Video," Available: https://youtu.be/ChhHs0ZBfWU?si=YpkfNC2asMpB6qQR.
-[26] Car Faults: YouTube, "Video," Available: https://youtu.be/_SnOrnmFpow?si=yikSmeOHZUaIM8yK.
-[27] Car Faults: MotorCarNut, "YouTube Video," Available: https://www.youtube.com/watch?v=Bad9JIBFoOI&ab_channel=MotorCarNut.
-[28] Car Faults: YouTube, "Short Video," Available: https://www.youtube.com/shorts/dXDcVqmQa_I.
-[29] Car Faults: Budget Mechanic, "YouTube Video," Available: https://www.youtube.com/watch?v=rZGpjvjaoJA&ab_channel=BudgetMechanic.
-[30] Car Faults: YouTube, "Short Video," Available: https://youtube.com/shorts/qWsZnBamXa8?si=pdLRkdaoz9dO9vOe.
-[31] Car Faults: YouTube, "Video," Available: https://youtu.be/vsSuoCbnKRo?si=NVF8a38cyDWsf6KE.
-[32] Car Faults: YouTube, "Video," Available: https://youtu.be/iE0DFNX1h2Q?si=2mOUfPMoxfNEQScs.
-[33] Car Faults: YouTube, "Video," Available: https://youtu.be/4X3RW7u14Rc?si=VmGOYrfbZGJgORxZ.
-[34] Car Faults: YouTube, "Short Video," Available: https://youtube.com/shorts/-p-9FaXh2IE?si=t5xcSnYQk8P51MUn.
-[35] Car Faults: YouTube, "Video," Available: https://youtu.be/GspWr69V96Y?si=JrTosCHEyRJvUz2m.
-[36] Car Faults: YouTube, "Short Video," Available: https://youtube.com/shorts/N3259hdbhUc?si=E09RbhMcDqEXRhcn.
-[37] Car Faults: YouTube, "Short Video," Available: https://youtube.com/shorts/Yy3l0pToRzc?si=Qz_ccAp9i3v3TGaV.
-[38] Car Faults: YouTube, "Short Video," Available: https://youtube.com/shorts/yowRYFa2gjw?si=wmipKIxdEXHhwKFz.
-[39] Car Faults: YouTube, "Video," Available: https://youtu.be/bS-gx5IY5Sc?si=OIcbL34ny0K_N5jG.
-[40] Car Faults: YouTube, "Video," Available: https://youtu.be/0q9rV0UvZUA?si=_WNv92QuwvgPtiUQ.
-[41] Car Faults: YouTube, "Video," Available: https://youtu.be/ss1ge3VA_a8?si=Q25SFM3ACsqsh2UM.
-[42] Car Faults: YouTube, "Video," Available: https://youtu.be/rx7T31LleQw?si=Ft1Bq8-z-mZSM01T.
-[43] Car Faults: YouTube, "Video," Available: https://youtu.be/_NAlRq6HaOA?si=5C9y3yaQA4F9J1-B.
+[1] Kaggle, "FSC22 Dataset," Available: https://www.kaggle.com/datasets/irmiot22/fsc22-dataset.
+
+[2] Kaggle, "Google Audioset," Available: https://www.kaggle.com/datasets/akela91/google-audioset.
+
+[3] Kaggle, "Audio Data," Available: https://www.kaggle.com/datasets/ivanj0/audiodata.
+
+[4] Kaggle, "Sound Classification of Animal Voice," Available: https://www.kaggle.com/datasets/rushibalajiputthewad/sound-classification-of-animal-voice.
+
+[5] DCASE Community, "DCASE 2024 Challenge," Available: https://dcase.community/challenge2024/index#task1.
+
+[6] UrbanSound, "UrbanSound8K Dataset," Available: https://urbansounddataset.weebly.com/urbansound8k.html.
+
+[7] Google Research, "AudioSet," Available: https://research.google.com/audioset/.
+
+[8] Kaggle, "Vehicle Sounds Dataset," Available: https://www.kaggle.com/datasets/janboubiabderrahim/vehicle-sounds-dataset.
+
+[9] MathWorks, "MathWorks Help Template," Available: https://www-dev1.mathworks.com/template-service/help/full-header-footer-offcanvas.html.
+
+[10] YouTube, "Car Crash Compilation 1," Available: https://youtu.be/qCzYyjbfmZ4.
+
+[11] YouTube, "Car Accident Analysis 2," Available: https://youtu.be/iy8TyBFM17k.
+
+[12] YouTube, "Short Clip: Car Collision Footage," Available: https://youtube.com/shorts/TQMX_nIRoBY.
+
+[13] YouTube, "High-Speed Vehicle Crash," Available: https://youtu.be/WoIbrsF8w_0.
+
+[14] YouTube, "Road Accidents and Impact Study," Available: https://www.youtube.com/shorts/LMN7zOgx6-I.
+
+[15] YouTube, "Real-Life Car Crash Compilation," Available: https://youtu.be/sRJ-Ly8gywk.
+
+[16] YouTube, "Crash Test and Impact Analysis," Available: https://youtu.be/ewayVSFOtsI.
+
+[17] YouTube, "Short Clip: Car Accident Recording," Available: https://youtube.com/shorts/0qgKpNnhoQ0.
+
+[18] YouTube, "Intersection Crash Example," Available: https://youtube.com/shorts/4xX6wQv3jaY.
+
+[19] YouTube, "Vehicle Collision Analysis," Available: https://youtube.com/shorts/Pl0sKYYE9bk.
+
+[20] YouTube, "Car Safety Test and Crash Data," Available: https://youtu.be/KWM8bIpVq5o.
+
+[21] YouTube, "Short Clip: Car Accident Scene," Available: https://youtube.com/shorts/hlisAvTFBtU.
+
+[22] YouTube, "Highway Crash Compilation," Available: https://youtu.be/bE2F5BIQEjQ.
+
+[23] YouTube, "Impact of Speed on Car Accidents," Available: https://youtu.be/Wfx1pH5MD5g.
+
+[24] YouTube, "Vehicle Crashes Due to Road Conditions," Available: https://youtu.be/DbXtQBgunSI.
+
+[25] YouTube, "Severe Road Accidents Compilation," Available: https://youtu.be/AFWWqUOShj8.
+
+[26] YouTube, "Car Crashes in Urban Areas," Available: https://youtu.be/Gp3vBR4fKao.
+
+[27] YouTube, "Short Clip: Car Collision at Intersection," Available: https://youtube.com/shorts/_GeKYYCMcWk.
+
+[28] YouTube, "Traffic Camera Captures Car Crash," Available: https://youtube.com/shorts/GEl2SB6tjyM.
+
+[29] YouTube, "Vehicle Crash Test Experiments," Available: https://youtu.be/mrpg_n1iXNU.
+
+[30] YouTube, "Fatal Car Crash Analysis," Available: https://youtu.be/V94DWRKssZQ.
+
+[31] YouTube, "Dashcam Footage of Car Accidents," Available: https://youtu.be/zn66td1ZPuc.
+
+[32] YouTube, "Short Clip: Vehicle Impact Simulation," Available: https://youtu.be/NoSTTF2fB98.
+
+[33] YouTube, "High-Speed Car Crash Test," Available: https://youtu.be/FlxHZS5cMKI.
+
+[34] YouTube, "Short Video: Car Collisions and Safety Measures," Available: https://youtu.be/7ThTci70350.
+
+[35] YouTube, "Machine Learning for Crash Prediction," Available: https://youtu.be/3LL82WkOujM.
+
+[36] YouTube, "AI-Based Car Crash Detection," Available: https://youtube.com/shorts/UAi46eie2j0.
+
+[37] YouTube, "Crash Testing for Autonomous Vehicles," Available: https://youtu.be/i7ss31_aado.
+
+[38] YouTube, "Vehicle Safety System Evaluation," Available: https://youtu.be/FL9AX9WTHnY.
+
+[39] YouTube, "Various Animal Sounds Compilation," Available: https://www.youtube.com/watch?v=BV-AeTn0c6c.
+
+[40] YouTube, "Wild Animal Sound Effects," Available: https://www.youtube.com/watch?v=mX8LegY5sEc.
+
+[41] YouTube, "Short Clip: Bird Chirping and Forest Sounds," Available: https://www.youtube.com/shorts/A0vje1Wg2-4.
+
+[42] YouTube, "Lion Roar and Other Animal Calls," Available: https://www.youtube.com/shorts/x-1QR33so_g.
+
+[43] YouTube, "Short Video: Elephant Trumpet and Jungle Sounds," Available: https://youtube.com/shorts/NRzy0LuUmRQ.
+
+[44] YouTube, "Animal Sound Collection for Learning," Available: https://youtube.com/shorts/qMHiNvaMlDE.
+
+[45] YouTube, "High-Quality Mammal and Bird Sounds," Available: https://youtu.be/uvVvlNT8Y8I.
+
+[46] YouTube, "Short Clip: Farm Animal Noises," Available: https://youtube.com/shorts/EE8LUWmi9E4.
+
+[47] YouTube, "Jungle Ambience with Animal Sounds," Available: https://youtube.com/shorts/nuC0Jd_fiuk.
+
+[48] YouTube, "Unique Sound Patterns of Different Animals," Available: https://youtu.be/iST-Brwk0LQ.
+
+[49] YouTube, "Short Video: Nocturnal Animal Sounds," Available: https://youtube.com/shorts/jYEWi88Ij1g.
+
+[50] YouTube, "Compilation of Animal Calls and Communication," Available: https://youtu.be/eFoBwHU2Fh0.
+
+[51] YouTube, "Short Clip: How Animals Use Sound," Available: https://youtube.com/shorts/qm-kMiTw-mE.
+
+[52] Instagram, "Reel Video: Car Faults," Available: https://www.instagram.com/reel/DAtBzrXNjhf/.
+
+[53] YouTube, "Short Video: Car Faults," Available: https://youtube.com/shorts/XW8qx0WPYWA.
+
+[54] YouTube, "Short Video: Car Faults," Available: https://youtube.com/shorts/ETYaJUNdbqM.
+
+[55] YouTube, "Video: Car Faults," Available: https://youtu.be/ChhHs0ZBfWU.
+
+[56] YouTube, "Video: Car Faults," Available: https://youtu.be/_SnOrnmFpow.
+
+[57] MotorCarNut, "YouTube Video: Car Faults," Available: https://www.youtube.com/watch?v=Bad9JIBFoOI.
+
+[58] YouTube, "Short Video: Car Faults," Available: https://www.youtube.com/shorts/dXDcVqmQa_I.
+
+[59] Budget Mechanic, "YouTube Video: Car Faults," Available: https://www.youtube.com/watch?v=rZGpjvjaoJA.
+
+[60] YouTube, "Short Video: Car Faults," Available: https://youtube.com/shorts/qWsZnBamXa8.
+
+[61] YouTube, "Video: Car Faults," Available: https://youtu.be/vsSuoCbnKRo.
+
+[62] YouTube, "Video: Car Faults," Available: https://youtu.be/iE0DFNX1h2Q.
+
+[63] YouTube, "Video: Car Faults," Available: https://youtu.be/4X3RW7u14Rc.
+
+[64] YouTube, "Short Video: Car Faults," Available: https://youtube.com/shorts/-p-9FaXh2IE.
+
+[65] YouTube, "Video: Car Faults," Available: https://youtu.be/GspWr69V96Y.
+
+[66] YouTube, "Short Video: Car Faults," Available: https://youtube.com/shorts/N3259hdbhUc.
+
+[67] YouTube, "Short Video: Car Faults," Available: https://youtube.com/shorts/Yy3l0pToRzc.
+
+[68] YouTube, "Short Video: Car Faults," Available: https://youtube.com/shorts/yowRYFa2gjw.
+
+[69] YouTube, "Video: Car Faults," Available: https://youtu.be/bS-gx5IY5Sc.
+
+[70] YouTube, "Video: Car Faults," Available: https://youtu.be/0q9rV0UvZUA.
+
+[71] YouTube, "Video: Car Faults," Available: https://youtu.be/ss1ge3VA_a8.
+
+[72] YouTube, "Video: Car Faults," Available: https://youtu.be/rx7T31LleQw.
+
+[73] YouTube, "Video: Car Faults," Available: https://youtu.be/_NAlRq6HaOA.
 
 
