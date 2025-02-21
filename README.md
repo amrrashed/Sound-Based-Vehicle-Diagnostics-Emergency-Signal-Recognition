@@ -156,7 +156,7 @@ References
 
 [30] YouTube, " Car Crash," Available: https://youtu.be/zn66td1ZPuc.
 
-[31] YouTube, "Short Clip: Vehicle Impact Simulation," Available: https://youtu.be/NoSTTF2fB98.
+[31] YouTube, " Car Crash," Available: https://youtu.be/NoSTTF2fB98.
 
 [32] YouTube," Car Crash," Available: https://youtu.be/FlxHZS5cMKI.
 
