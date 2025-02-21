@@ -1,109 +1,93 @@
-The dataset was created and reviewed using a combination of publicly available datasets and real-world recordings, 
+The dataset was created and reviewed using a combination of publicly available datasets and real-world recordings, covering a wide range of vehicle faults, crashes, emergency sirens (police, ambulance, fire truck),
 
-covering a wide range of vehicle faults, crashes, emergency sirens (police, ambulance, fire truck), wild animal sounds, car and truck horns, and other environmental road sounds.
-
-This approach ensures a diverse and realistic dataset that enhances model performance in detecting road-related events.
-
-1. Publicly Available Datasets Referenced [1]-[8]
+wild animal sounds, car and truck horns, and other environmental road sounds. This approach ensures a diverse and realistic dataset that enhances model performance in detecting road-related events.
+________________________________________
+1. Data Collection and Annotation
    
-We utilized several datasets containing wild animal sounds, vehicle faults, and environmental noises to build a comprehensive dataset.
+•	We carefully selected publicly available datasets that include real traffic scenarios and vehicle fault cases.
 
-The key datasets referenced include:
+•	Additionally, we extracted relevant frames and sequences from YouTube videos, ensuring a diverse representation of traffic conditions and vehicle behaviors.
 
-• FSC22 Dataset: A collection focused on various sound categories such as vehicle sounds and environmental noises, useful for sound classification models [1].
+•	Each data sample was manually labeled based on predefined criteria, focusing on vehicle states, traffic interactions, and specific fault conditions.
+________________________________________
+2. Expert Review and Validation
+   
+•	To enhance reliability, domain experts with extensive experience in automotive engineering and machine learning reviewed the dataset.
 
-• Google Audioset: A large-scale collection of audio data across thousands of categories, aiming to improve sound classification models [2].
+•	The experts cross-checked and validated the labels to ensure accuracy and consistency with real-world vehicle behaviors.
+________________________________________
+3. Publicly Available Datasets Referenced
+   
+We utilized multiple datasets containing wild animal sounds, vehicle faults, and environmental noises to build a comprehensive dataset. The key datasets referenced include:
 
-• Audio Data: A collection of diverse audio clips across various categories, useful for developing classification models [3].
+•	[FSC22 Dataset]: A collection focused on various sound categories, including vehicle sounds and environmental noises, useful for sound classification models [1].
 
-• Sound Classification of Animal Voice: A dataset containing sounds from different animals, useful for animal sound classification tasks [4].
+•	[Google AudioSet]: A large-scale collection of audio data across thousands of categories, aimed at improving sound classification models [2].
 
-• DCASE 2024 Challenge: A dataset designed for the DCASE 2024 challenge, covering environmental sound classification tasks [5].
+•	[Audio Data]: A dataset containing diverse audio clips across various categories, useful for developing classification models [3].
 
-• UrbanSound8K Dataset: Contains 8,732 labeled sound excerpts from urban environments, categorized into 10 classes such as car horns and sirens [6].
+•	[Sound Classification of Animal Voice]: A dataset containing sounds from different animals, useful for animal sound classification tasks [4].
 
-• AudioSet by Google Research: A vast dataset with over 2 million human-labeled 10-second sound clips spanning thousands of audio categories [7].
+•	[DCASE 2024 Challenge]: A dataset designed for the DCASE 2024 challenge, covering environmental sound classification tasks [5].
+•	[UrbanSound8K Dataset]: Contains 8,732 labeled sound excerpts from urban environments, categorized into 10 classes such as car horns and sirens [6].
 
-• Vehicle Sounds Dataset: Contains various vehicle sounds useful for training models focused on transportation-related sound classification [8].
+•	[AudioSet by Google Research]: A vast dataset with over 2 million human-labeled 10-second sound clips spanning thousands of audio categories [7].
 
-
-3. Vehicle Faults Categorized in the Dataset
+•	[Vehicle Sounds Dataset]: Contains various vehicle sounds useful for training models focused on transportation-related sound classification [8].
+________________________________________
+4. Vehicle Faults Categorized in the Dataset
    
 The dataset includes multiple vehicle faults, ensuring coverage of mechanical, transmission, braking, and steering issues. The specific fault categories are:
 
 ✅ Transmission and Drivetrain Faults
 
 •	Bad CV Joint
-
 •	Bad Transmission
-
 •	Bad Wheel Bearing
-
 •	Universal Joint Failure / Steering Rack Failure
-
 •	Turning Front-End Clicking (Bad CV Axle)
-
 ✅ Engine and Exhaust Faults
 
 •	Engine Chirping / Squealing Belt
-
 •	Engine Misfire
-
 •	Engine Rattle Noise
-
 •	Flooded Engine
-
 •	Fuel Pump Cartridge Fault
-
 •	Knocking
-
 •	Lifter Ticking
-
 •	Loose Exhaust Shield
-
 •	Muffler Running Loud (Exhaust Leak)
-
 •	Pre-Ignition
-
 •	Seized Engine
-
 •	Thrown Rod
-
 •	Vacuum Leak
-
 ✅ Suspension and Steering Faults
 
 •	Clunking Over Bumps (Bad Stabilizer Link Noise)
-
 •	Steering Groaning / Whining (Low Power Steering Fluid)
-
 •	Steering Noise
-
 •	Strut Mount Failure
-
 •	Suspension Arm Fault
-
 ✅ Cooling System and Fan Faults
 
 •	Radiator Fan Failure
-
 ✅ Braking System Faults
 
 •	Squeaky Belt
-
 •	Squeaky Brake / Grinding Brake
-
+________________________________________
 5. Car Crash References
    
-To include realistic car crash scenarios in our dataset, we utilized real-world accident recordings from YouTube [9]–[37].
-
-7. Animal Sound References
+To include realistic car crash scenarios, we incorporated real-world accident recordings from YouTube [9]–[37].
+________________________________________
+6. Animal Sound References
    
-To ensure the dataset accurately reflects real-world environmental conditions, we included animal sounds from various real-world recordings available on YouTube [38]–[50].
-
-9. Additional Car Fault References
-    
+To accurately reflect real-world environmental conditions, we included animal sounds from various real-world recordings available on YouTube [38]–[50].
+________________________________________
+7. Additional Car Fault References
+   
 We supplemented our dataset with real-world recordings of car faults obtained from Instagram and YouTube [51]–[72].
+
 ________________________________________
 References 
 
