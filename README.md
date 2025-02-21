@@ -112,90 +112,89 @@ References
 
 [8] Kaggle, "Vehicle Sounds Dataset," Available: https://www.kaggle.com/datasets/janboubiabderrahim/vehicle-sounds-dataset.
 
+[9] YouTube, "Car Crash," Available: https://youtu.be/qCzYyjbfmZ4.
 
-[9] YouTube, "Car Crash Compilation 1," Available: https://youtu.be/qCzYyjbfmZ4.
+[10] YouTube, " Car Crash," Available: https://youtu.be/iy8TyBFM17k.
 
-[10] YouTube, "Car Accident Analysis 2," Available: https://youtu.be/iy8TyBFM17k.
+[11] YouTube, " Car Crash," Available: https://youtube.com/shorts/TQMX_nIRoBY.
 
-[11] YouTube, "Short Clip: Car Collision Footage," Available: https://youtube.com/shorts/TQMX_nIRoBY.
+[12] YouTube, " Car Crash," Available: https://youtu.be/WoIbrsF8w_0.
 
-[12] YouTube, "High-Speed Vehicle Crash," Available: https://youtu.be/WoIbrsF8w_0.
+[13] YouTube, " Car Crash," Available: https://www.youtube.com/shorts/LMN7zOgx6-I.
 
-[13] YouTube, "Road Accidents and Impact Study," Available: https://www.youtube.com/shorts/LMN7zOgx6-I.
+[14] YouTube, " Car Crash," Available: https://youtu.be/sRJ-Ly8gywk.
 
-[14] YouTube, "Real-Life Car Crash Compilation," Available: https://youtu.be/sRJ-Ly8gywk.
+[15] YouTube, " Car Crash," Available: https://youtu.be/ewayVSFOtsI.
 
-[15] YouTube, "Crash Test and Impact Analysis," Available: https://youtu.be/ewayVSFOtsI.
+[16] YouTube, " Car Crash," Available: https://youtube.com/shorts/0qgKpNnhoQ0.
 
-[16] YouTube, "Short Clip: Car Accident Recording," Available: https://youtube.com/shorts/0qgKpNnhoQ0.
+[17] YouTube, " Car Crash," Available: https://youtube.com/shorts/4xX6wQv3jaY.
 
-[17] YouTube, "Intersection Crash Example," Available: https://youtube.com/shorts/4xX6wQv3jaY.
+[18] YouTube, " Car Crash," Available: https://youtube.com/shorts/Pl0sKYYE9bk.
 
-[18] YouTube, "Vehicle Collision Analysis," Available: https://youtube.com/shorts/Pl0sKYYE9bk.
+[19] YouTube, " Car Crash," Available: https://youtu.be/KWM8bIpVq5o.
 
-[19] YouTube, "Car Safety Test and Crash Data," Available: https://youtu.be/KWM8bIpVq5o.
+[20] YouTube, " Car Crash,"Available: https://youtube.com/shorts/hlisAvTFBtU.
 
-[20] YouTube, "Short Clip: Car Accident Scene," Available: https://youtube.com/shorts/hlisAvTFBtU.
+[21] YouTube, " Car Crash," Available: https://youtu.be/bE2F5BIQEjQ.
 
-[21] YouTube, "Highway Crash Compilation," Available: https://youtu.be/bE2F5BIQEjQ.
+[22] YouTube, " Car Crash," Available: https://youtu.be/Wfx1pH5MD5g.
 
-[22] YouTube, "Impact of Speed on Car Accidents," Available: https://youtu.be/Wfx1pH5MD5g.
+[23] YouTube, " Car Crash," Available: https://youtu.be/DbXtQBgunSI.
 
-[23] YouTube, "Vehicle Crashes Due to Road Conditions," Available: https://youtu.be/DbXtQBgunSI.
+[24] YouTube, " Car Crash," Available: https://youtu.be/AFWWqUOShj8.
 
-[24] YouTube, "Severe Road Accidents Compilation," Available: https://youtu.be/AFWWqUOShj8.
+[25] YouTube, " Car Crash," Available: https://youtu.be/Gp3vBR4fKao.
 
-[25] YouTube, "Car Crashes in Urban Areas," Available: https://youtu.be/Gp3vBR4fKao.
+[26] YouTube, " Car Crash," Available: https://youtube.com/shorts/_GeKYYCMcWk.
 
-[26] YouTube, "Short Clip: Car Collision at Intersection," Available: https://youtube.com/shorts/_GeKYYCMcWk.
+[27] YouTube, " Car Crash," Available: https://youtube.com/shorts/GEl2SB6tjyM.
 
-[27] YouTube, "Traffic Camera Captures Car Crash," Available: https://youtube.com/shorts/GEl2SB6tjyM.
+[28] YouTube, " Car Crash," Available: https://youtu.be/mrpg_n1iXNU.
 
-[28] YouTube, "Vehicle Crash Test Experiments," Available: https://youtu.be/mrpg_n1iXNU.
+[29] YouTube, " Car Crash," Available: https://youtu.be/V94DWRKssZQ.
 
-[29] YouTube, "Fatal Car Crash Analysis," Available: https://youtu.be/V94DWRKssZQ.
-
-[30] YouTube, "Dashcam Footage of Car Accidents," Available: https://youtu.be/zn66td1ZPuc.
+[30] YouTube, " Car Crash," Available: https://youtu.be/zn66td1ZPuc.
 
 [31] YouTube, "Short Clip: Vehicle Impact Simulation," Available: https://youtu.be/NoSTTF2fB98.
 
-[32] YouTube, "High-Speed Car Crash Test," Available: https://youtu.be/FlxHZS5cMKI.
+[32] YouTube," Car Crash," Available: https://youtu.be/FlxHZS5cMKI.
 
-[33] YouTube, "Short Video: Car Collisions and Safety Measures," Available: https://youtu.be/7ThTci70350.
+[33] YouTube, " Car Crash," Available: https://youtu.be/7ThTci70350.
 
-[34] YouTube, "Machine Learning for Crash Prediction," Available: https://youtu.be/3LL82WkOujM.
+[34] YouTube, " Car Crash," Available: https://youtu.be/3LL82WkOujM.
 
-[35] YouTube, "AI-Based Car Crash Detection," Available: https://youtube.com/shorts/UAi46eie2j0.
+[35] YouTube, " Car Crash," Available: https://youtube.com/shorts/UAi46eie2j0.
 
-[36] YouTube, "Crash Testing for Autonomous Vehicles," Available: https://youtu.be/i7ss31_aado.
+[36] YouTube, " Car Crash," Available: https://youtu.be/i7ss31_aado.
 
-[37] YouTube, "Vehicle Safety System Evaluation," Available: https://youtu.be/FL9AX9WTHnY.
+[37] YouTube, " Car Crash," Available: https://youtu.be/FL9AX9WTHnY.
 
-[38] YouTube, "Various Animal Sounds Compilation," Available: https://www.youtube.com/watch?v=BV-AeTn0c6c.
+[38] YouTube, "Animal Sounds ," Available: https://www.youtube.com/watch?v=BV-AeTn0c6c.
 
-[39] YouTube, "Wild Animal Sound Effects," Available: https://www.youtube.com/watch?v=mX8LegY5sEc.
+[39] YouTube, "Animal Sounds," Available: https://www.youtube.com/watch?v=mX8LegY5sEc.
 
-[40] YouTube, "Short Clip: Bird Chirping and Forest Sounds," Available: https://www.youtube.com/shorts/A0vje1Wg2-4.
+[40] YouTube, "Animal Sounds," Available: https://www.youtube.com/shorts/A0vje1Wg2-4.
 
-[41] YouTube, "Lion Roar and Other Animal Calls," Available: https://www.youtube.com/shorts/x-1QR33so_g.
+[41] YouTube, "Animal Sounds," Available: https://www.youtube.com/shorts/x-1QR33so_g.
 
-[42] YouTube, "Short Video: Elephant Trumpet and Jungle Sounds," Available: https://youtube.com/shorts/NRzy0LuUmRQ.
+[42] YouTube, "Animal Sounds," Available: https://youtube.com/shorts/NRzy0LuUmRQ.
 
-[43] YouTube, "Animal Sound Collection for Learning," Available: https://youtube.com/shorts/qMHiNvaMlDE.
+[43] YouTube, "Animal Sounds," Available: https://youtube.com/shorts/qMHiNvaMlDE.
 
-[44] YouTube, "High-Quality Mammal and Bird Sounds," Available: https://youtu.be/uvVvlNT8Y8I.
+[44] YouTube, "Animal Sounds," Available: https://youtu.be/uvVvlNT8Y8I.
 
-[45] YouTube, "Short Clip: Farm Animal Noises," Available: https://youtube.com/shorts/EE8LUWmi9E4.
+[45] YouTube, "Animal Sounds," Available: https://youtube.com/shorts/EE8LUWmi9E4.
 
-[46] YouTube, "Jungle Ambience with Animal Sounds," Available: https://youtube.com/shorts/nuC0Jd_fiuk.
+[46] YouTube, "Animal Sounds,"  Available: https://youtube.com/shorts/nuC0Jd_fiuk.
 
-[47] YouTube, "Unique Sound Patterns of Different Animals," Available: https://youtu.be/iST-Brwk0LQ.
+[47] YouTube, "Animal Sounds ," Available: https://youtu.be/iST-Brwk0LQ.
 
-[48] YouTube, "Short Video: Nocturnal Animal Sounds," Available: https://youtube.com/shorts/jYEWi88Ij1g.
+[48] YouTube, "Animal Sounds ," Available: https://youtube.com/shorts/jYEWi88Ij1g.
 
-[49] YouTube, "Compilation of Animal Calls and Communication," Available: https://youtu.be/eFoBwHU2Fh0.
+[49] YouTube, "Animal Sounds ,"Available: https://youtu.be/eFoBwHU2Fh0.
 
-[50] YouTube, "Short Clip: How Animals Use Sound," Available: https://youtube.com/shorts/qm-kMiTw-mE.
+[50] YouTube, "Animal Sounds ," Available: https://youtube.com/shorts/qm-kMiTw-mE.
 
 [51] Instagram, "Reel Video: Car Faults," Available: https://www.instagram.com/reel/DAtBzrXNjhf/.
 
@@ -240,4 +239,3 @@ References
 [71] YouTube, "Video: Car Faults," Available: https://youtu.be/rx7T31LleQw.
 
 [72] YouTube, "Video: Car Faults," Available: https://youtu.be/_NAlRq6HaOA.
-
