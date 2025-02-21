@@ -95,6 +95,7 @@ To ensure the dataset accurately reflects real-world environmental conditions, w
 We supplemented our dataset with real-world recordings of car faults obtained from Instagram and YouTube [52]–[73].
 ________________________________________
 References 
+
 [1] Kaggle, "FSC22 Dataset," Available: https://www.kaggle.com/datasets/irmiot22/fsc22-dataset.
 
 [2] Kaggle, "Google Audioset," Available: https://www.kaggle.com/datasets/akela91/google-audioset.
