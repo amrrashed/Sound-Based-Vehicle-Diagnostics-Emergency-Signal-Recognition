@@ -4,16 +4,17 @@ covering a wide range of vehicle faults, crashes, emergency sirens (police, ambu
 
 This approach ensures a diverse and realistic dataset that enhances model performance in detecting road-related events.
 
-1. Publicly Available Datasets Referenced
+1. Publicly Available Datasets Referenced [1]-[9]
    
 We utilized several datasets containing wild animal sounds, vehicle faults, and environmental noises to build a comprehensive dataset.
+
 The key datasets referenced include:
 
-📌 Wild Animal Sounds and Environmental Sounds
+Vehicle Faults and Road Sounds: The "FSC22 Dataset" [1], "Google AudioSet" [2], and "Vehicle Sounds Dataset" [8] were instrumental in covering various vehicle faults and road-related noises,
 
-📌 Vehicle Faults and Road Sounds
+while the "DCASE 2024 Challenge" [5] provided additional vehicle and environmental sound recordings. "Audio Data" [3] also contributed to the broader range of environmental and road sounds included in the dataset.
 
-ref [1]-[9]
+Wild Animal Sounds and Environmental Sounds: Datasets like the "Sound Classification of Animal Voice" [4] and "UrbanSound8K Dataset" [6] provided a diverse set of animal and environmental sounds.
 
 
 3. Vehicle Faults Categorized in the Dataset
